@@ -1,7 +1,7 @@
 # widgetlanjutan3<h1>
 #Screenshoot Aplikasi<h1>
-![Gambar 1](http://imageshack.com/a/img921/9004/H1vXPV.jpg)
-![Gambar 2](http://imageshack.com/a/img924/3748/xJQZOU.jpg)
+![Gambar 1](http://imageshack.com/a/img922/7194/XjEyOu.jpg)
+![Gambar 2](http://imageshack.com/a/img923/833/sBfyfZ.jpg)
 #Identitas<h1>
 1. Nama : Muhammad Rintohadi Prawiro
 2. Kelas : XIIRPL2
